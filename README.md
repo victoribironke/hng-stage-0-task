@@ -48,8 +48,8 @@ npm run dev
 
 ## Base URL
 
-```javascript
-const BASE_URL = "https://api.talanq.com";
+```plaintext
+https://hng-stage-0-task-eta.vercel.app
 ```
 
 ---
